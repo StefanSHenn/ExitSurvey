@@ -1,4 +1,4 @@
 # Introduktion til ExitSurvey
 
 Her skriver vi lidt om hvad vi laver...
-Og lidt til!
+Og lidt mere til!
