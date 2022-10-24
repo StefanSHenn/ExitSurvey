@@ -6,4 +6,4 @@ Og lidt mere til!
 ## Nu laver jeg en ændring til
 Det var en god en
 
-Det var det.
+Det var alt for nu!
